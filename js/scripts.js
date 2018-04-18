@@ -13,7 +13,7 @@ else if (value < 0) {
   console.log('wartość ujemna');
 } 
 else {
-  alert('wartość równa 0');
-  console.log('Wynik równy zero');
+  alert('wynik równy 0');
+  console.log('wynik równy zero');
 }
 
