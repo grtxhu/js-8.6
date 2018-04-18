@@ -5,12 +5,12 @@ alert('value b =' + b);
 var value = (a * a) - (2 * a * b) - (b * b);
 
 if (value > 0) {
-  alert ('wartość dodatnia'); 
-  console.log('wartość dodatnia'); 
+  alert ('wynik dodatni'); 
+  console.log('wynik dodatni'); 
 }
 else if (value < 0) {
-  alert('wartość ujemna');
-  console.log('wartość ujemna');
+  alert('wynik ujemny');
+  console.log('wynik ujemny');
 } 
 else {
   alert('wynik równy 0');
